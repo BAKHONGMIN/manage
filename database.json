@@ -1,0 +1,7 @@
+{
+    "host":"management-tutorial.cmc4tjhek4rw.ap-northeast-2.rds.amazonaws.com",
+    "user":"user",
+    "password":"spdlxmdhs1",
+    "port":"3306",
+    "database":"management"
+}
